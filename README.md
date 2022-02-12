@@ -1,1 +1,1 @@
-# Artificial-Inelligence-CS132
+# Artificial-Inelligence Course Tasks
