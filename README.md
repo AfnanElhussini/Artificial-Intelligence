@@ -1,1 +1,1 @@
-# Artificial-Inelligence Course Tasks
+# Artificial Inelligence Course Tasks
